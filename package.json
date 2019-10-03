@@ -1,0 +1,24 @@
+{
+  "name": "best-match-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crnyberg91/best-match-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crnyberg91/best-match-react/issues"
+  },
+  "homepage": "https://github.com/crnyberg91/best-match-react#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
